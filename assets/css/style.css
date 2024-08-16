@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0:
+}
+
+
+.img-grid {
+    min-width: 150px;
+    min-height: 150px;
+    max-width: 360px;
+    max-height: 350px;
+    margin-bottom: 15px;
+    border: solid rgba(145, 141, 141, 0.358) 1.2px;
+}
+
+#img-nogrid{
+    width: 360px;
+    height: 300px;
+    margin-bottom: 15px; 
+    
+}
+
+
+.border-grilla{
+    padding-top: 20px;
+}
